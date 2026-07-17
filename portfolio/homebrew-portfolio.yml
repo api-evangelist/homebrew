@@ -1,0 +1,1059 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.homebrew.co/
+summary:
+  portfolio_total: 103
+  in_network: 21
+  api_providers: 13
+  missing: 82
+  stubs_created: 0
+companies:
+- name: Chime
+  url: https://www.chime.com
+  description: Consumer neobank and financial app
+  sector: fintech
+  stage: seed
+  status: ipo
+  source: https://www.homebrew.co/
+  slug: chime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Graphite
+  url: https://graphite.dev
+  description: Code review and developer workflow platform
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: graphite-dev
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Habi
+  url: https://habi.co
+  description: Online residential real estate marketplace in Latin America
+  sector: proptech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: habi
+- name: Plaid
+  url: https://plaid.com
+  description: Financial data connectivity API
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: plaid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Shield AI
+  url: https://www.shield.ai
+  description: Autonomous defense systems and AI pilots
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: shield-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tryadonis
+  url: https://www.tryadonis.com
+  description: AI-powered outbound sales and lead generation
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tryadonis
+- name: Airweave
+  url: https://airweave.ai
+  description: Empower AI agents with search
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: airweave
+- name: Albertinvent
+  url: https://www.albertinvent.com
+  description: Materials science R&D platform
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: albertinvent
+- name: Altira Health
+  url: https://www.altirahealth.com
+  description: AI clinical assistant
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: altira-health
+- name: Amberflo
+  url: https://www.amberflo.io
+  description: Usage metering and billing
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: amberflo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ambrook
+  url: https://ambrook.com
+  description: Financial management software for agriculture
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ambrook
+- name: Andrenam
+  url: https://www.andrenam.com
+  description: AI-powered maritime sensing
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: andrenam
+- name: Angel
+  url: https://www.angellist.com
+  description: ListInvesting for everyone
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: angellist
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Archastro
+  url: https://archastro.ai
+  description: Space and astronautics technology
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: archastro
+- name: Archimetis
+  url: https://www.archimetis.ai
+  description: AI ops for heavy industry
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: archimetis
+- name: Arthur AI
+  url: https://www.arthur.ai
+  description: AI model monitoring
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arthur-ai
+- name: Assembly
+  url: https://www.joinassembly.com
+  description: Low-code project management
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: assembly
+- name: Atlasmotion
+  url: https://atlasmotion.com
+  description: Robotics and motion technology
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atlasmotion
+- name: Bacca.ai
+  url: https://www.bacca.ai
+  description: AI site reliability engineering
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baccaai
+- name: Biobot
+  url: http://www.biobot.io
+  description: Wastewater epidemiology and public health data
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: biobot
+- name: Blockpartyapp
+  url: https://www.blockpartyapp.com
+  description: Web3 social identity and safety tools
+  sector: crypto-web3
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blockpartyapp
+- name: Bluejay
+  url: https://getbluejay.ai
+  description: QA for AI agents
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bluejay
+- name: Boom Supersonic
+  url: https://boomsupersonic.com
+  description: Supersonic air travel
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boom-supersonic
+- name: Brain
+  url: https://brain.co
+  description: Neurotechnology and brain-computer interface
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brain
+- name: Usebraintrust
+  url: https://www.usebraintrust.com
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: usebraintrust
+- name: Branch
+  url: https://branch.gg
+  description: Web3 gaming
+  sector: crypto-web3
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: branch
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Caba
+  url: https://www.cabadesign.co
+  description: Custom furniture, delivered fast
+  sector: logistics
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caba
+- name: Cabana
+  url: https://cabanapools.com
+  description: Pool service made easy
+  sector: logistics
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cabana
+- name: Canopy
+  url: https://canopyservicing.com
+  description: Modern loan servicing API
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: canopy
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Claritypediatrics
+  url: https://www.claritypediatrics.com
+  description: Virtual pediatric behavioral health
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: claritypediatrics
+- name: Cointracker
+  url: https://www.cointracker.io
+  description: Cryptocurrency portfolio and tax tracking
+  sector: crypto-web3
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cointracker
+- name: Color
+  url: https://www.color.com
+  description: Accessible health care platforms
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: color-genomics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Cometa
+  url: https://www.getcometa.com
+  description: K-12 payments in Mexico
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cometa
+- name: Concentric AI
+  url: https://www.concentric.ai
+  description: Data risk monitoring
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: concentric-ai
+- name: CoreStory
+  url: https://corestory.ai
+  description: Code intelligence
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: corestory
+- name: Cornerhealth
+  url: https://www.cornerhealth.com
+  description: Modern primary care
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cornerhealth
+- name: Cotool
+  url: https://www.cotool.ai
+  description: AI for the blue team
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cotool
+- name: Cove
+  url: https://cove.ai
+  description: Collaborative AI
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cove
+- name: Datacurve
+  url: https://datacurve.ai
+  description: data for frontier AI
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datacurve
+- name: DeepWeave
+  url: https://www.deepweave.ai
+  description: Optimized chips for AI
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: deepweave
+- name: Eisen
+  url: https://www.witheisen.com
+  description: Escheatment compliance
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eisen
+- name: Ello
+  url: https://www.ello.com
+  description: AI reading coach for kids
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ello
+- name: Eloquentai
+  url: https://www.eloquentai.co
+  description: AI for financial services compliance
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eloquentai
+- name: Elroy Air
+  url: http://elroyair.com
+  description: Autonomous cargo aircraft
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elroy-air
+- name: Estimote
+  url: https://estimote.com
+  description: OS for the physical world
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: estimote
+- name: Ethena
+  url: https://www.goethena.com
+  description: Smarter training software
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ethena
+- name: Extend
+  url: https://www.extend.ai
+  description: Document processing cloud
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: extend-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Finch
+  url: https://tryfinch.com
+  description: Payroll and HR data API
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: finch
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Finix
+  url: https://www.finixpayments.com
+  description: Real-time payments infrastructure
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finix
+- name: Gusto
+  url: https://gusto.com
+  description: Modern payroll, benefits and HR
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Hallow
+  url: https://hallow.com
+  description: Prayer and meditation
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hallow
+- name: Headway
+  url: https://headway.co
+  description: Better mental health system
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: headway-co
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hidden Door
+  url: https://www.hiddendoor.co
+  description: AI-powered social roleplaying
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hidden-door
+- name: Hivemapper
+  url: https://hivemapper.com
+  description: Smarter mapping
+  sector: logistics
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hivemapper
+- name: Honor
+  url: https://www.joinhonor.com
+  description: Home care
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: honor
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hummingbird
+  url: https://hummingbird.co
+  description: Financial crime fighting
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hummingbird
+- name: Inversion Space
+  url: https://www.inversionspace.com
+  description: Delivery from space
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inversion-space
+- name: Jetify
+  url: https://www.jetify.com
+  description: Cloud dev environments
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jetify
+- name: Kanmon
+  url: https://www.kanmonhq.com
+  description: Embedded financing
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kanmon
+- name: Kettle
+  url: https://ourkettle.com
+  description: Climate risk modeling
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kettle
+- name: Larridin
+  url: https://larridin.com
+  description: Workplace productivity software
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: larridin
+- name: Leona
+  url: https://www.leona.health
+  description: AI-powered co-pilot for doctors
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leona
+- name: Living Carbon
+  url: https://www.livingcarbon.com
+  description: Carbon-capturing plants
+  sector: climate
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: living-carbon
+- name: Maia-analytics
+  url: https://www.maia-analytics.com
+  description: Analytics platform
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maia-analytics
+- name: Manifest
+  url: https://www.manifestcyber.com
+  description: SBOM management
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: manifest-cyber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mantari
+  url: https://www.mantari.com
+  description: Technology startup
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mantari
+- name: Mercury
+  url: https://mercury.com
+  description: Banking for startups
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: mercury
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Modelbit
+  url: https://www.modelbit.com
+  description: ML model deployment
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modelbit
+- name: Monograph
+  url: https://monograph.com
+  description: Practice management for architecture and engineering firms
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: monograph
+- name: Nava
+  url: https://www.navabenefits.com
+  description: Modern benefits brokerage
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nava
+- name: Nelo
+  url: https://www.nelo.mx
+  description: Consumer credit for Latin America
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nelo
+- name: Noondual-canvas for design and code
+  url: https://noon.design
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noondual-canvas-for-design-and-code
+- name: Noyo
+  url: https://www.noyo.com
+  description: Health insurance infrastructure
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noyo
+- name: Numbi
+  url: https://numbi.ai
+  description: Accounting for Latin America
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: numbi
+- name: Nuvocargo
+  url: https://www.nuvocargo.com
+  description: Cross-border shipping
+  sector: aerospace-defense
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nuvocargo
+- name: Oboe
+  url: https://oboe.fyi
+  description: AI-powered learning
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oboe
+- name: Obvio
+  url: https://www.obvio.ai
+  description: AI for traffic safety
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: obvio
+- name: Overview
+  url: https://overview.ai
+  description: Computer vision for factories
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: overview
+- name: Pika
+  url: https://pika.art
+  description: Idea-to-video
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: pika
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Primary
+  url: https://www.primary.com
+  description: Kids clothing essentials
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: primary
+- name: Purchaser
+  url: https://purchaser.ai
+  description: AI-powered procurement
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: purchaser
+- name: Quanta
+  url: https://www.usequanta.com
+  description: Real-time accounting
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quanta
+- name: Ranger
+  url: https://www.ranger.net
+  description: QA testing
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ranger
+- name: Regal
+  url: https://www.regal.io
+  description: Personal touch for customers
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: regal-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Reken
+  url: https://reken.ai
+  description: Cybersecurity for AI threats
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reken
+- name: Res
+  url: https://www.getresq.com
+  description: QRestaurant repair & maintenance
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: res
+- name: SarisAI
+  url: https://www.saris.ai
+  description: AI agents for financial services
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sarisai
+- name: SchoolAI
+  url: https://schoolai.com
+  description: Student-centered AI
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: schoolai
+- name: Scrunch AI
+  url: https://scrunchai.com
+  description: AI customer experience
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: scrunch-ai
+- name: Slang
+  url: https://www.slang.ai
+  description: AI phone concierge
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slang
+- name: Sweep
+  url: https://www.sweep360.ai
+  description: Digital threat detection
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sweep
+- name: Thirdwave
+  url: https://www.thirdwave.ai
+  description: Warehouse autonomy
+  sector: logistics
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: thirdwave
+- name: Thread AI
+  url: https://www.threadai.com
+  description: AI orchestration
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: thread-ai
+- name: Tia
+  url: https://asktia.com
+  description: Healthcare for women
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: tia-women
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tolan
+  url: https://www.tolans.com
+  description: AI companion
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tolan
+- name: TrueAccord
+  url: https://www.trueaccord.com
+  description: Debt collection reimagined
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trueaccord
+- name: TrueBiz
+  url: https://truebiz.io
+  description: Business identity verification
+  sector: security
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: truebiz
+- name: Unkey
+  url: https://www.unkey.com
+  description: Developer platform for modern APIs
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: unkey
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Useful Sensors
+  url: https://usefulsensors.com
+  description: AI for everyday objects
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: useful-sensors
+- name: Vantara
+  url: https://vantara.ai
+  description: AI customer intelligence
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vantara
+- name: VillageSQL
+  url: https://villagesql.com
+  description: MySQL with extensions for AI
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: villagesql
+- name: Warp
+  url: https://www.joinwarp.com
+  description: Payroll for startups
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  slug: warp
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Windfall
+  url: http://windfalldata.com
+  description: Consumer financial data
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.homebrew.co/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: windfall
