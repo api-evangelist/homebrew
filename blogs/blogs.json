@@ -1,0 +1,28 @@
+{
+  "repo": "homebrew",
+  "feeds": [
+    {
+      "source": "https://www.homebrew.co/#Seeking",
+      "feed_url": "https://www.homebrew.co/#Seeking",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.homebrew.co/blog",
+      "feed_url": "https://www.homebrew.co/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://hunterwalk.com/",
+      "feed_url": "https://hunterwalk.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-20T13:31:34Z"
+}
