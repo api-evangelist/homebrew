@@ -16,13 +16,20 @@
       "method": "none"
     },
     {
+      "source": "https://hunterwalk.com/feed/",
+      "feed_url": "https://hunterwalk.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://hunterwalk.com/",
       "feed_url": "https://hunterwalk.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 12,
+  "fetched": "2026-08-01T15:49:00Z"
 }
