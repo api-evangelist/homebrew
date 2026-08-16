@@ -6,14 +6,16 @@
       "feed_url": "https://www.homebrew.co/#Seeking",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     },
     {
       "source": "https://www.homebrew.co/blog",
       "feed_url": "https://www.homebrew.co/blog",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     },
     {
       "source": "https://hunterwalk.com/feed/",
@@ -31,5 +33,5 @@
     }
   ],
   "post_count": 13,
-  "fetched": "2026-08-06T14:08:46Z"
+  "fetched": "2026-08-15T12:11:08Z"
 }
