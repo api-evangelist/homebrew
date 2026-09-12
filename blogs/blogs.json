@@ -2,13 +2,6 @@
   "repo": "homebrew",
   "feeds": [
     {
-      "source": "https://www.homebrew.co/#Seeking",
-      "feed_url": "https://www.homebrew.co/#Seeking",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://www.homebrew.co/blog",
       "feed_url": "https://www.homebrew.co/blog",
       "title": "",
@@ -16,26 +9,29 @@
       "method": "none"
     },
     {
-      "source": "https://hunterwalk.com/feed/",
-      "feed_url": "https://hunterwalk.com/feed/",
+      "source": "https://www.homebrew.co/#Seeking",
+      "feed_url": "https://www.homebrew.co/#Seeking",
       "title": "",
-      "saved": 1,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
+      "saved": 0,
+      "method": "none"
     },
     {
       "source": "https://hunterwalk.com/",
+      "feed_url": "https://hunterwalk.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://hunterwalk.com/feed/",
       "feed_url": "https://hunterwalk.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     }
   ],
   "post_count": 15,
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
