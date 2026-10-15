@@ -700,17 +700,6 @@ companies:
   is_api_provider: false
   slug: living-carbon
   matched_by: domain
-- name: Maia-analytics
-  url: https://www.maia-analytics.com
-  description: Analytics platform
-  sector: developer-tools
-  stage: seed
-  status: active
-  source: https://www.homebrew.co/
-  in_network: true
-  is_api_provider: true
-  slug: maia-analytics
-  matched_by: domain
 - name: Manifest
   url: https://www.manifestcyber.com
   description: SBOM management
