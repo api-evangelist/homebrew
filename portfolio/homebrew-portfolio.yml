@@ -2,10 +2,10 @@ generated: '2026-07-17'
 method: searched
 source: https://www.homebrew.co/
 summary:
-  portfolio_total: 103
-  in_network: 103
-  api_providers: 32
-  missing: 0
+  portfolio_total: 102
+  in_network: 97
+  api_providers: 29
+  missing: 5
   stubs_created: 0
 companies:
 - name: Chime
@@ -26,7 +26,7 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  slug: graphite-dev
+  slug: graphite-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -182,7 +182,7 @@ companies:
   source: https://www.homebrew.co/
   in_network: true
   is_api_provider: true
-  slug: arthur-ai
+  slug: arthurai
   matched_by: domain
 - name: Assembly
   url: https://www.joinassembly.com
@@ -322,10 +322,10 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  slug: canopy
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: canopy
+  suggested_slug: canopyservicing-com
 - name: Claritypediatrics
   url: https://www.claritypediatrics.com
   description: Virtual pediatric behavioral health
@@ -366,10 +366,10 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: cometa
-  matched_by: name-slug
+  x-name-collision: cometa
+  suggested_slug: getcometa-com
 - name: Concentric AI
   url: https://www.concentric.ai
   description: Data risk monitoring
@@ -632,7 +632,7 @@ companies:
   source: https://www.homebrew.co/
   in_network: true
   is_api_provider: false
-  slug: inversion-space
+  slug: inversion
   matched_by: domain
 - name: Jetify
   url: https://www.jetify.com
@@ -652,10 +652,10 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  in_network: true
-  is_api_provider: true
-  slug: kanmon
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: kanmon
+  suggested_slug: kanmonhq-com
 - name: Kettle
   url: https://ourkettle.com
   description: Climate risk modeling
@@ -860,7 +860,7 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  slug: pika
+  slug: pika-labs
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -983,7 +983,7 @@ companies:
   source: https://www.homebrew.co/
   in_network: true
   is_api_provider: false
-  slug: slang
+  slug: slang-ai
   matched_by: domain
 - name: Sweep
   url: https://www.sweep360.ai
@@ -992,10 +992,10 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: sweep
-  matched_by: name-slug
+  x-name-collision: sweep
+  suggested_slug: sweep360-ai
 - name: Thirdwave
   url: https://www.thirdwave.ai
   description: Warehouse autonomy
@@ -1025,7 +1025,7 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  slug: tia-women
+  slug: tia
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1113,10 +1113,10 @@ companies:
   stage: seed
   status: active
   source: https://www.homebrew.co/
-  slug: warp
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: warp
+  suggested_slug: joinwarp-com
 - name: Windfall
   url: http://windfalldata.com
   description: Consumer financial data

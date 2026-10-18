@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: homebrew
-leads: []
+leads:
+- name: Canopy
+  url: https://canopyservicing.com
+  suggested_slug: canopyservicing-com
+  sector: fintech
+  source_vc: homebrew
+  source: https://www.homebrew.co/
+  stub_created: false
+- name: Cometa
+  url: https://www.getcometa.com
+  suggested_slug: getcometa-com
+  sector: fintech
+  source_vc: homebrew
+  source: https://www.homebrew.co/
+  stub_created: false
+- name: Kanmon
+  url: https://www.kanmonhq.com
+  suggested_slug: kanmonhq-com
+  sector: fintech
+  source_vc: homebrew
+  source: https://www.homebrew.co/
+  stub_created: false
+- name: Sweep
+  url: https://www.sweep360.ai
+  suggested_slug: sweep360-ai
+  sector: security
+  source_vc: homebrew
+  source: https://www.homebrew.co/
+  stub_created: false
+- name: Warp
+  url: https://www.joinwarp.com
+  suggested_slug: joinwarp-com
+  sector: fintech
+  source_vc: homebrew
+  source: https://www.homebrew.co/
+  stub_created: false
